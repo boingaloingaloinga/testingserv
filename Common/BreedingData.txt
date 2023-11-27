@@ -24,6 +24,7 @@ Monsters/Monster_stoopa 20
 
 Monsters/Monster_percFrog=Monsters/Monster_choral+Monsters/Monster_likho 5
 Monsters/Special/Monster_melochness=Monsters/Monster_likho+Monsters/Monster_potbelly 5
+Monsters/Monster_ghazt_undof=Monsters/Monster_potbelly+Monsters/Monster_Oaktopus 100
 
 Monsters/Monster_bridgit=Monsters/Monster_choral+Monsters/Monster_flootfly 0
 Monsters/Monster_phangler=Monsters/Monster_quibble+Monsters/Monster_banno 0
