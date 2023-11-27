@@ -268,6 +268,13 @@ Monsters/Monster_dulsylvan_rare=Rare Dulsylvan
 Monsters/Monster_dulsylvan_rare_bio=During the late stages of a Dulsylvan’s time, it’s body begins to rapidly change. Old, solid wood morphs into a light airy shape, known as a sylvcone. The Dulsylvan’s body begins to ooze a sweet sap, that will feed its young Sylvlings after it has passed on, and it’s nose changes to a luscious green shade. While these latter days are considered to be short, they are known to be filled with joy, as the old Dulsylvan becomes able to move freely once more! Eventually though, it slows down, and the sap crystallizes the sylvcone and preserves it for eternity…
 
 
+Monsters/Monster_mammott_rare=Rare Mammott
+Monsters/Monster_mammott_rare_bio=If this works that would be crazy
+
+Monsters/Monster_quibble_rare=Rare Quibble
+Monsters/Monster_quibble_rare_bio=Hopefully this will work as well.
+
+
 Monsters/Monster_varrow_rare=Rare Varrow
 Monsters/Monster_varrow_rare_bio=What do you find when you place a needle inside a nutshell, inside a berry, in a cloth, place it in a chest, and bury it at the bottom of the marsh's waters? A Rare Varrow, that's what! These queer monsters have a penchance to anything puzzling and paradoxical- including themselves! While it's unknown how these odd monsters came into existence, they're here to stay, boasting their garments and trinkets from distant lands and giving everyone something to ponder every chance they get...
 
