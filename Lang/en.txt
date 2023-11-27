@@ -272,7 +272,7 @@ Monsters/Monster_varrow_rare=Rare Varrow
 Monsters/Monster_varrow_rare_bio=What do you find when you place a needle inside a nutshell, inside a berry, in a cloth, place it in a chest, and bury it at the bottom of the marsh's waters? A Rare Varrow, that's what! These queer monsters have a penchance to anything puzzling and paradoxical- including themselves! While it's unknown how these odd monsters came into existence, they're here to stay, boasting their garments and trinkets from distant lands and giving everyone something to ponder every chance they get...
 
 Monsters/Monster_banno_rare=Rare Banno
-Monsters/Monster_banno_rare_bio=Rare Banno is an extraordinary monster, with the biggest gyatt in the monster world
+Monsters/Monster_banno_rare_bio=GYATTTTT
 
 
 
@@ -573,10 +573,13 @@ Monsters/Monster_gumtromp=Gumtromp
 Monsters/Monster_gumtromp_bio=A sweet demeanored treat, the adorable Gumtromp parades around the monster world, giving inspirational speeches on how... candy is actually good for you and how the toothbrush mafia is out to get everyone. Yikes. But besides that, this marmalade monster loves to help its friends and caters plenty of sweets for events of any size. What a sugary delight! 
 
 Monsters/Monster_gumtromp_rare=Rare Gumtromp
-Monsters/Monster_gumtromp_rare_bio=A seemingly normal monster has a sweet secret! Their chocolate-covered heads are no ordinary treat but hold an amazing surprise. When consumed, every other snack becomes infused with an irresistibly sweet flavor!
+Monsters/Monster_gumtromp_rare_bio=Rare Gumtromp bio
 
 Monsters/Monster_keytrus=Keytrus
 Monsters/Monster_keytrus_bio=Like its surprisingly-close kin, the Koodahcane, Keytrus is far-disconnected from its fellow candy monsters via its complete inedibility! In fact, Keytrus often find themselves scavenging about the surface of the Konficshonn colossal for sour sweets and delicacies! This sweet -- or, rather, sour -- tooth is only satiated by the disc-shaped fruits found growing in the colossal's beard. It then uses specialized claws at the tips of its limbs, normally covered by leaflike feathers, to slice the orange in half, revealing 4 quadrants of flesh that can be tapped to produce a wonderfully whimsical tink! These fruits, called Discus Fruits by the other monsters, are actually not sour at all, but Keytrus doesn't know that... don't ruin its fun.
+
+Monsters/Monster_keytrus_rare=Rare Keytrus
+Monsters/Monster_keytrus_rare_bio=Rare Keytrus bio
 
 Monsters/Monster_koodahcane=Koodahcane
 Monsters/Monster_koodahcane_bio=The sweetening antlers of the Koodahcane are beloved by all inhabitants of the Candy Island. All sugar in the bloodstream of these scaly fish are accumulated on the tip of their skull and grown like hair. When it reaches a tipping point, Once a month or so, these sucrose-filled cranial canes are shed and left to be collected around the island, as sweet treats. 
@@ -806,12 +809,19 @@ str_locked=???
 str_TeleportUnavailable=Not available on this island
 str_stats=Species: <species>\nClass: <class>\nRate: <rate>\nMax: <max>
 str_stats_castle=Beds: <bedsOccupied>\<bedsAvailable>
-str_stats_candy=Species: <species>\nBeds: <beds>
+str_stats_candy=Species: <species>\nClass: <class>\nBeds: <beds>
 str_extra=Extra
 
 str_dunes_release=Welcome to Archaic Dunes!
 str_dunes_desc=This island, formerly thought to have been inaccessible, the power of the Festival of Yay has allowed the Skyship to travel here! 
 str_dunes_skyship=Teleport to Archaic Dunes? This will encase the Monster in sand.
+Monsters/Monster_scaratar_dunes=Scaratar (Encased)
+Monsters/Monster_scaratar_dunes_bio=bio
+Monsters/Monster_buzzinga_dunes=Buzzinga (Encased)
+Monsters/Monster_buzzinga_dunes_bio=bio
+Monsters/Monster_congle_dunes=Congle (Encased)
+Monsters/Monster_willisp=Willisp
+Monsters/Monster_willisp_bio=When the sands now known as the Archaic Dunes were first found, they were desolate as could be. However, this was soon to change. The lost Titanling Willisp found itself here, in an endless sea of copper sand. Using its potent magic, it created sand sculptures of monsters,and pulled monster spirits from across space and time to inbue them into the sandstone forms. Unfortunately, it fell short of brining its companions to life, but with the power of Enchanted Dew... who knows what YOU could do...
 
 diamonds - <color=#4EFFF5>
 coins - <color="yellow">
@@ -1137,6 +1147,7 @@ goal_placeDeco=Buy and place <color="green">"<entityName>".
 goal_teleport=Teleport a <color="green"><entityName></color> to an outer island.
 
 str_setting_credits=Credits
+str_setting_spacialBlend=3D Sound
 
 str_credits_main=T.L.L. by:
 str_credits_execProd=Support:
