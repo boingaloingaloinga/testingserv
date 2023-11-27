@@ -300,11 +300,9 @@ Monsters/Monster_shellbeat diamonds=0
 Monsters/Monster_schmoochle diamonds=0
 Monsters/Monster_plixie diamonds=0
 Monsters/Monster_reebro diamonds=0
-Monsters/Monster_wheezel_rock diamonds=0
-Monsters/Monster_knurv_rock diamonds=0
--
-monster_rares:
-Monsters/Monster_oaktopus_rare
+Monsters/Monster_wheezel diamonds=0
+Monsters/Monster_knurv diamonds=0
+Monsters/Monster_oaktopus_rare diamonds=0
 -
 decorations:
 Decoration/Decoration_test
@@ -582,22 +580,24 @@ Decoration/Obstacle_placable_Candy_6
 Calamity
 monsters:
 Monsters/Monster_stogg_undof
-Monsters/Monster_varrow Vortex=1
-Monsters/Monster_boskus Vortex=1
-Monsters/Monster_pango Vortex=1
-Monsters/Monster_denchuhs Vortex=1
-Monsters/Monster_banno Vortex=1
+Monsters/Monster_varrow Vortex=0
+Monsters/Monster_boskus Vortex=0
+Monsters/Monster_pango Vortex=0
+Monsters/Monster_denchuhs Vortex=0
+Monsters/Monster_banno Vortex=0
 Monsters/Monster_rootitoot
-Monsters/Monster_pummel Vortex=1
-Monsters/Monster_clamble Vortex=1
-Monsters/Monster_deedge Vortex=1
-Monsters/Monster_tiawa Vortex=1
-Monsters/Monster_arackulele Vortex=1
+Monsters/Monster_pummel Vortex=0
+Monsters/Monster_clamble Vortex=0
+Monsters/Monster_deedge Vortex=0
+Monsters/Monster_tiawa Vortex=0
+Monsters/Monster_arackulele Vortex=0
 Monsters/Monster_punkleton
-Monsters/Monster_ffydill Vortex=1
+Monsters/Monster_ffydill Vortex=0
 Monsters/Monster_blasoom
-Monsters/Monster_poewk Vortex=1
-Monsters/Monster_pixolotl Vortex=1
+Monsters/Monster_poewk Vortex=0
+Monsters/Monster_pixolotl Vortex=0
+Monsters/Monster_varrow_rare Vortex=0
+Monsters/Monster_banno_rare Vortex=0
 -
 decorations:
 Decoration/Decoration_test
@@ -650,6 +650,7 @@ Monsters/Monster_oaktopus diamonds=0
 Monsters/Monster_reedling_young_singer diamonds=0
 Monsters/Monster_loodvigg
 Monsters/Monster_spurrit Vortex=0
+Monsters/Monster_oaktopus_rare Vortex=0
 -
 decorations:
 Decoration/Decoration_test
