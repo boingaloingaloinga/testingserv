@@ -950,6 +950,9 @@ str_island_Candy_bio=Candy Island bio
 str_island_Calamity=Calamity Island
 str_island_Calamity_bio=Calamity Island bio
 
+str_island_test=test
+str_island_test_bio=Calamity Island bio
+
 str_island_TI=Tutor's Island
 str_island_TI_bio=bio
 
