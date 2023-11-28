@@ -7,6 +7,7 @@ Desert 10 Complete z
 Calamity 20 Complete z
 GM 15 Incomplete z
 TI 0 Incomplete z
+composer 0 Incomplete z
 Meduza 25 Incomplete NoZeppelin
 dream 0 Complete z
 test 0 Complete z
