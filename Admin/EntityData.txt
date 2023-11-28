@@ -38,6 +38,7 @@ Monsters/Monster_potbellyGM diamonds=1000 water-g 72000 30 coins=2@80@coins=180 
 Monsters/Monster_quibbleGM diamonds=2000 water-g 72000 30 coins=2@80@coins=180 Gamma potbellyGM,potbellyGM 0 0
 
 Monsters/Monster_mammott coins=400 cold 300 5 coins=1@120@coins=60 Natural mammott,mammott 0 0
+Monsters/Monster_mammott_rare diamonds=0 cold 600 10 coins=2@120@coins=120 Natural-r mammott_rare,mammott_rare 0 0
 
 Monsters/Monster_mammott_meduza coins=400 cold 300 5 coins=1@120@coins=60 Natural mammott,mammott 0 0
 
