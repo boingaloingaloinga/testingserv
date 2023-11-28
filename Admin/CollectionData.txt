@@ -179,4 +179,6 @@ GM:
 Monsters/Monster_olga
 Monsters/Monster_potbellyGM
 Monsters/Monster_quibbleGM
-
+;
+test:
+Monsters/Monster_toejammer
