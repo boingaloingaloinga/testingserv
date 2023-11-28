@@ -502,36 +502,36 @@ Decoration/Dog
 ;
 Candy
 monsters:
-Monsters/Monster_toejammer_undof
-Monsters/Monster_noggin_undof
-Monsters/Monster_kayna_undof
-Monsters/Monster_gumtromp
-Monsters/Monster_fwog_undof
-Monsters/Monster_stogg_undof
-Monsters/Monster_phangler_undof
-Monsters/Monster_koodahcane
-Monsters/Monster_gobstomper
-Monsters/Monster_thrumble_undof
-Monsters/Monster_marshflamo
-Monsters/Monster_keytrus
-Monsters/Monster_claramel
-Monsters/Monster_brasscuit
-Monsters/Monster_sprinklate
-Monsters/Monster_dipster_1
-Monsters/Monster_dipster_2
-Monsters/Monster_dipster_3
-Monsters/Monster_dipster_4
-Monsters/Monster_dipster_5
-Monsters/Monster_dipster_6
-Monsters/Monster_dipster_7
-Monsters/Monster_knife
-Monsters/Monster_jamboree_undof
-Monsters/Monster_ghazt_undof
-Monsters/Monster_fleechwurm_undof
-Monsters/Monster_wubbox_undof
-Monsters/Monster_wubbox_rare_undof
-Monsters/Monster_jobo
-Monsters/Monster_treble
+Monsters/Monster_toejammer_undof diamonds=0
+Monsters/Monster_noggin_undof diamonds=0
+Monsters/Monster_kayna_undof diamonds=0
+Monsters/Monster_gumtromp diamonds=0
+Monsters/Monster_fwog_undof diamonds=0
+Monsters/Monster_stogg_undof diamonds=0
+Monsters/Monster_phangler_undof diamonds=0
+Monsters/Monster_koodahcane diamonds=0
+Monsters/Monster_gobstomper diamonds=0
+Monsters/Monster_thrumble_undof diamonds=0
+Monsters/Monster_marshflamo diamonds=0
+Monsters/Monster_keytrus diamonds=0
+Monsters/Monster_claramel diamonds=0
+Monsters/Monster_brasscuit diamonds=0
+Monsters/Monster_sprinklate diamonds=0
+Monsters/Monster_dipster_1 diamonds=0
+Monsters/Monster_dipster_2 diamonds=0
+Monsters/Monster_dipster_3 diamonds=0
+Monsters/Monster_dipster_4 diamonds=0
+Monsters/Monster_dipster_5 diamonds=0
+Monsters/Monster_dipster_6 diamonds=0
+Monsters/Monster_dipster_7 diamonds=0
+Monsters/Monster_knife diamonds=0
+Monsters/Monster_jamboree_undof diamonds=0
+Monsters/Monster_ghazt_undof diamonds=0
+Monsters/Monster_fleechwurm_undof diamonds=0
+Monsters/Monster_wubbox_undof diamonds=0
+Monsters/Monster_wubbox_rare_undof diamonds=0
+Monsters/Monster_jobo diamonds=0
+Monsters/Monster_treble diamonds=0
 -
 decorations:
 Decoration/Decoration_test
