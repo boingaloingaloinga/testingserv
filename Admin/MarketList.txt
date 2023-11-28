@@ -785,15 +785,7 @@ Decoration/Dog
 ;
 EgyptPipes
 monsters:
-Monsters/Bonapetite
 Monsters/Congle
 Monsters/Gnarls
-Monsters/Krillby
-Monsters/Pladdie
 Monsters/Buzzinga
-Monsters/Shlep
-Monsters/Scaratar
-Monsters/Loodvigg
-Monsters/Uuduk
-Monsters/Whimmzies
 ;
