@@ -1,3 +1,4 @@
 funny-edition-3;everyone;what; HOLY SHIT MY PRIVATE SERVER WORKS !;icon@new;diamonds@99999999999999999999999;coins@999999999999999999999;
 funny-edition-4;everyone;holy moly; :) !;icon@new;diamonds@99999999999999999999999;coins@999999999999999999999;
 funny-edition-5;everyone;okay here; gosh !;icon@new;diamonds@99999999999999999999999;coins@999999999999999999999;
+funny-edition-5;everyone;hihihihih; should work ;icon@new;diamonds@100000000;coins@100000000;food@100000000;foodB100000000;
