@@ -470,6 +470,7 @@ Decoration/Decoration_mors
 structures:
 Structures/Structure_crafter
 Structures/Structure_bakery
+Strucctures/Structure_breeding_undof coins=0
 
 -
 deco_paths:
@@ -734,6 +735,7 @@ Monsters/Monster_quibble_dream
 Monsters/Monster_deedge_dream
 Monsters/VOIDCORN
 Structures/Structure_jukebox_dream coins=0
+Strucctures/Structure_breeding_undof coins=0
 ;
 GM
 monsters:
@@ -762,6 +764,7 @@ Decoration/Decoration_mors
 -
 structures:
 Structures/Structure_bass
+Strucctures/Structure_breeding_undof coins=0
 -
 deco_paths:
 EM_path1
