@@ -766,7 +766,7 @@ Decoration/Decoration_mors
 -
 structures:
 Structures/Structure_bass
-Strucctures/Structure_breeding coins=0
+Structures/Structure_breeding coins=0
 -
 deco_paths:
 EM_path1
