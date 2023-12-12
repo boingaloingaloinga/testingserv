@@ -126,3 +126,14 @@ Monsters/Monster_quibbleGM 70
 Monsters/Monster_olga 35
 
 Monsters/Monster_olga=Monsters/Monster_potbellyGM+Monsters/Monster_quibbleGM 50
+;
+dream:
+Monsters/Monster_mammott_dream 35
+Monsters/Monster_deedge_dream 35
+Monsters/Monster_likho_dream 35
+Monsters/Monster_quibble_dream 35
+Monsters/Monster_stogg_dream 35
+Monsters/Monster_toejammer_dream 35
+Monsters/Monster_ghazt_dream 35
+Monsters/VOIDCORN_dream 35
+Monsters/Monster_dragong_dream 35
