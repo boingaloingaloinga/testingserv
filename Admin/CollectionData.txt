@@ -180,5 +180,16 @@ Monsters/Monster_olga
 Monsters/Monster_potbellyGM
 Monsters/Monster_quibbleGM
 ;
+dream:
+Monsters/Monster_mammott_dream
+Monsters/Monster_deedge_dream
+Monsters/Monster_likho_dream
+Monsters/Monster_quibble_dream
+Monsters/Monster_stogg_dream
+Monsters/Monster_toejammer_dream
+Monsters/Monster_ghazt_dream
+Monsters/VOIDCORN_dream coins=0
+Monsters/Monster_dragong_dream 
+;
 test:
 Monsters/Monster_toejammer
