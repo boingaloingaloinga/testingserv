@@ -17,4 +17,6 @@ N
 GM:
 N
 ;
-
+dream:
+N
+;
