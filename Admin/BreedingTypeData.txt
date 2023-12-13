@@ -20,3 +20,6 @@ N
 dream:
 N
 ;
+desert:
+N
+;
