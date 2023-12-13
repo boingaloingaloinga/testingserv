@@ -137,3 +137,17 @@ Monsters/Monster_toejammer_dream 35
 Monsters/Monster_ghazt_dream 35
 Monsters/VOIDCORN_dream 35
 Monsters/Monster_dragong_dream 35
+;
+desert:
+Monsters/Monster_scaratar 5
+Monsters/Monster_flootfly 35
+Monsters/Monster_furcorn 35
+Monsters/Monster_rootitoot 35
+Monsters/Monster_trox 35
+Monsters/Monster_spurrit_desert 10
+Monsters/Monster_bisonorus 35
+
+Monsters/Monster_scaratar=Monsters/Monster_furcorn+Monsters/Monster_trox 50
+Monsters/Monster_spurrit_desert=Monsters/Monster_bisonorus+Monsters/Monster_rootitoot 50
+;
+;
