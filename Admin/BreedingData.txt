@@ -138,7 +138,7 @@ Monsters/Monster_ghazt_dream 35
 Monsters/VOIDCORN_dream 35
 Monsters/Monster_dragong_dream 35
 ;
-desert:
+Desert:
 Monsters/Monster_scaratar 5
 Monsters/Monster_flootfly 35
 Monsters/Monster_furcorn 35
