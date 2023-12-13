@@ -407,7 +407,8 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 -
 structures:
-
+Structures/Structure_breeding coins=0
+Structures/Structure_timemachine coins=0
 -
 deco_paths:
 EM_path1
@@ -737,6 +738,7 @@ Monsters/VOIDCORN_dream
 structures:
 Structures/Structure_jukebox_dream coins=0
 Structures/Structure_breeding coins=0
+Structures/Structure_timemachine coins=0
 ;
 GM
 monsters:
