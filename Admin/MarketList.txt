@@ -794,7 +794,7 @@ Decoration/Dog
 ;
 EgyptPipes
 monsters:
-Monsters/Congle
+Monsters/Congle_dunes
 Monsters/Gnarls
 Monsters/Buzzinga
 ;
