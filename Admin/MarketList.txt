@@ -28,6 +28,8 @@ Monsters/Monster_dulsylvan_rare diamonds=0
 Monsters/Monster_banno_rare diamonds=0
 Monsters/Monster_phangler_rare diamonds=0
 Monsters/Monster_deedge
+Monsters/Monster_dragong
+Monsters/Monster_osstax
 -
 decorations:
 Decoration/Decoration_test
