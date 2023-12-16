@@ -335,7 +335,7 @@ Monsters/Monster_plixie diamonds=0
 Monsters/Monster_reebro diamonds=0
 Monsters/Monster_wheezel diamonds=0
 Monsters/Monster_knurv diamonds=0
-Monsters/Monster_oaktopus_rare diamonds=0
+Monsters/Monster_fluoress diamonds=0
 -
 decorations:
 Decoration/Decoration_test
