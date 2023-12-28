@@ -193,3 +193,16 @@ Monsters/Monster_dragong_dream
 ;
 test:
 Monsters/Monster_toejammer
+;
+EgyptPipes:
+Monsters/Bonapetite
+Monsters/Congle
+Monsters/Gnarls
+Monsters/Krillby
+Monsters/Pladdie
+Monsters/Scaratar
+Monsters/Uuduk
+Monsters/Whimmzies
+Monsters/Loodvigg
+Monsters/Buzzinga
+Monsters/Shlep
