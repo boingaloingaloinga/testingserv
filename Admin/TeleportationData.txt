@@ -171,8 +171,8 @@ Monsters/Monster_spunge_young=Monsters/VOIDCORN_dream 0
 Monsters/Monster_scaratar=Monsters/Monster_dragong_dream 0
 ;
 EgyptPipes 0 10
-Monsters/Monster_scaratar=Monsters/Scaratar 10
-Monsters/Monster_loodvigg=Monsters/Loodvigg 10
+Monsters/Monster_scaratar=Monsters/Scaratar 0
+Monsters/Monster_loodvigg=Monsters/Loodvigg 0
 Monsters/Monster_frondley_young=Monsters/Whimmzies 10
 Monsters/Monster_punkelton_young=Monsters/Buzzinga 10
 Monsters/Monster_noggin_young=Monsters/Congle 10
