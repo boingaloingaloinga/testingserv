@@ -3,5 +3,5 @@ CRC: 4221521189
 AssetBundleManifest:
   AssetBundleInfos:
     Info_1:
-      Name: egyptpipes
+      Name: egyptpipes_scene
       Dependencies: {}
