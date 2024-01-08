@@ -8,7 +8,7 @@ monster_rarepot entity Monsters/Monster_rarepot
 
 monster_load entity Monsters/Monster_load
 
-monster_rarekeytrus entity Monsters/Monster_keytrus_rare
+monster_keytrus_rare entity Monsters/Monster_keytrus_rare
 
 monster_young_yool entity Monsters/Monster_yool
 
