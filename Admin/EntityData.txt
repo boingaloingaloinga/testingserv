@@ -15,6 +15,7 @@ Monsters/Monster_banno diamonds=80 air@water@faerie 46800 30 coins=1@72@coins=26
 Monsters/Monster_dandidoo diamonds=40 air@plant 28800 15 coins=1@80@coins=90 Natural dandidoo,dandidoo 4 0
 Monsters/Monster_varrow diamonds=60 air@faerie 36000 20 coins=1@80@coins=150 Magical varrow,varrow 6 0
 Monsters/Monster_stoopa diamonds=130 water@faerie@air@plant 79200 40 coins=1@28@coins=550 Magical stoopa,stoopa 6 0
+Monsters/Monster_keytrus_rare diamonds=600 earth-o@water-o@candy 57600 5 coins=11@60@coins=7320 Lost-r keytrus,keytrus 0 0
 
 Monsters/Monster_deedge diamonds=120 water@plant@cold@air 79200 40 coins=1@28@coins=550 Natural deedge,deedge 6 0
 
