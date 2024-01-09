@@ -2,6 +2,8 @@ candyuhidk12
 
 monster_marshflamo entity Monsters/Monster_marshflamo_rare
 
+monster_jeeode_young entity Monsters/Monster_jeeode_young
+
 monster_test entity Monsters/Monster_test
 
 monster_rarepot entity Monsters/Monster_rarepot
