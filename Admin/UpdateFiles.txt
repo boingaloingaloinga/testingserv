@@ -1,6 +1,6 @@
 candyuhidk12
 
-monster_marshflamo entity Monsters/Monster_marshflamo_rare
+monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
 
 monster_jeeode_young entity Monsters/Monster_jeeode_young
 
