@@ -56,7 +56,7 @@ monster_trox entity-d Monsters/Monster_trox
 
 
 desert_scene scene-d Desert2
-ti_scene scene-d TI
+EgyptPipes scene-d EgyptPipes
 gm_scene scene-d GM
 
 monster_quibblegm entity Monsters/Monster_quibblegm_2
