@@ -3,3 +3,4 @@ what_the_hell entity Monsters/whatthehell
 monster_knife_rare entity Monsters/Monster_knife_rare
 EgyptPipes scene-d EgyptPipes
 monster_sprinklate_rare entity Monsters/Monster_sprinklate_rare
+monster_brasscuit_rare entity Monsters/Monster_keytrus_rare
