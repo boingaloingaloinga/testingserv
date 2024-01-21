@@ -530,6 +530,7 @@ Monsters/Monster_marshflamo diamonds=0
 Monsters/Monster_keytrus diamonds=0
 Monsters/Monster_claramel diamonds=0
 Monsters/Monster_brasscuit diamonds=0
+Monsters/Monster_brasscuit_rare diamonds=0
 Monsters/Monster_sprinklate diamonds=0
 Monsters/Monster_dipster_1 diamonds=0
 Monsters/Monster_dipster_2 diamonds=0
