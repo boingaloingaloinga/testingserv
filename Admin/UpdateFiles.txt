@@ -1,4 +1,4 @@
 knott_special_rare entity Monsters/Knott_special_rare
 what_the_hell entity Monsters/whatthehell
 EgyptPipes scene-d EgyptPipes
-Monster_brasscuit_rare entity Monsters/Monster_brasscuit_rare
+monster_brasscuit_rare entity Monsters/Monster_brasscuit_rare
