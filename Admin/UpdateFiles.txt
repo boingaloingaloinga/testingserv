@@ -1,1 +1,2 @@
 monster_brasscuit_rare entity Monsters/Monster_brasscuit_rare
+monster_jawbreaker_rare entity Monsters/Monster_jawbreaker_rare
