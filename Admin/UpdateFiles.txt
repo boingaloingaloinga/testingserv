@@ -1,3 +1,4 @@
 monster_brasscuit_rare entity Monsters/Monster_brasscuit_rare
 monster_gobstomper_rare entity Monsters/Monster_gobstomper_rare
 monster_bone_candy entity Monsters/Monster_bone_candy
+EgyptPipes_scene scene-d EgyptPipes
