@@ -11,4 +11,3 @@ Meduza
 dream
 LoadingScreen
 EgyptPipes
-Credits
