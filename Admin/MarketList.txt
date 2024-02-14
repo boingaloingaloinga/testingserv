@@ -399,6 +399,13 @@ Monsters/Monster_pongping_meduza diamonds=0
 Monsters/Monster_whimstlop_meduza diamonds=0
 Monsters/Monster_meduza diamonds=0
 Monsters/Monster_mammott_rare diamonds=0
+Monsters/Monster_dipster_1 diamonds=0
+Monsters/Monster_dipster_2 diamonds=0
+Monsters/Monster_dipster_3 diamonds=0
+Monsters/Monster_dipster_4 diamonds=0
+Monsters/Monster_dipster_5 diamonds=0
+Monsters/Monster_dipster_6 diamonds=0
+Monsters/Monster_dipster_7 diamonds=0
 -
 decorations:
 Decoration/Decoration_test
