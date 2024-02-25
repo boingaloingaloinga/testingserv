@@ -1,0 +1,73 @@
+ManifestFileVersion: 0
+CRC: 2057192254
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eddd739c3e7585b127e85c07417f34fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0c0435c46dbb8ef18fbe7071841a5bde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89043cf30dd24f67826356ada5048f43, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e4167487a6bab58d4c9f0c818bba195, type: 3}
+- Class: 114
+  Script: {fileID: 938447500, guid: c88ab7b37c4f350242674d2efd621c19, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 612072ea5cd20bc49b0f3d8c8b538ba3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d6ee1eb07257671c681ffb65ed5635a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 852a1e97bf0490ea453e5b17a553a524, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b25b23a957cd5c8469b667e14434fde, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 156049354
+  Script: {instanceID: 0}
+- Class: 483693784
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+- Class: 1839735485
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/EgyptPipes.unity
+Dependencies: []
