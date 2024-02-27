@@ -1,1 +1,2 @@
-scenetest scene scenetest
+
+saycheese entity Monsters/Monster_smilecorn
