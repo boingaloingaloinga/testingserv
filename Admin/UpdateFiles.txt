@@ -1,2 +1,1 @@
 
-saycheese entity Monsters/Monster_smilecorn
