@@ -951,6 +951,8 @@ str_island_GM_bio=bio
 
 str_island_EgyptPipes=Archaic Dunes
 
+str_island_scenetest=Funny Test Lol
+
 str_island_dream=island_demented_dream_ERROR:
 str_island_dream_bio=what the actual fwog
 
