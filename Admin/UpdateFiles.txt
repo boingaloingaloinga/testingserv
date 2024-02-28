@@ -1,1 +1,1 @@
-egyptpipes scene EgyptPipes
+saycheese entity Monsters/Monster_smile
