@@ -1,1 +1,1 @@
-saycheese entity Monsters/Monster_smile
+monster_trox entity-d Monsters/Monster_trox
