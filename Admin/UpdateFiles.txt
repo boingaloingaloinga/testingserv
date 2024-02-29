@@ -1,1 +1,1 @@
-monster_trox entity-d Monsters/Monster_trox
+monster_trox entity Monsters/Monster_trox
