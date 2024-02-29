@@ -1,1 +1,3 @@
 monster_trox entity Monsters/Monster_trox
+desert_midi midi
+desert_sound audio Desert
